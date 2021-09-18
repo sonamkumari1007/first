@@ -3,3 +3,5 @@ Hello, i am trying to learn GIT
 
 Just adding some new texts
 
+adding new branch
+
